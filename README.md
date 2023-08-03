@@ -1,4 +1,4 @@
 # databricks-repository
-Repository for developing data pipelines.
+Repository for developing ETL and data pipelines.
 
 Author: Fabricio Moraes.
